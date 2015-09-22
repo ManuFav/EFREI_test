@@ -5,7 +5,7 @@ public class main {
 		// TODO Auto-generated method stub
 		System.out.println("coucou git hub");
 		System.out.println("COCO");
-
-	}
+		System.out.println("test");	
+		}
 
 }
