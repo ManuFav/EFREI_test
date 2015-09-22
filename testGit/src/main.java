@@ -6,9 +6,10 @@ public class main {
 		System.out.println("coucou git hub");
 		System.out.println("COCO");
 		System.out.println("test");	
-		System.out.println("coool");
-		
+		System.out.println("coooolol");
+		float f;
 		int i;
+		
 		
 	}
 
