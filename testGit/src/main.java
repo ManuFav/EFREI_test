@@ -7,6 +7,9 @@ public class main {
 		System.out.println("COCO");
 		System.out.println("test");	
 		System.out.println("coool");
+		
+		int i;
+		
 	}
 
 }
