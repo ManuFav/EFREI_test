@@ -7,10 +7,8 @@ public class main {
 		System.out.println("COCO");
 		System.out.println("test");	
 		System.out.println("coooolol");
-		float f;
 		int i;
-		
-		
+		float f;
 	}
 
 }
